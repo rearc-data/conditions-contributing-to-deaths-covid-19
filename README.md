@@ -7,7 +7,7 @@
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
 
 ## Main Overview:
-This data shows health conditions and contributing causes mentioned in conjunction with deaths involving coronavirus disease 2019 (COVID-19) starting from February 1, 2020.
+This resource shows health conditions and contributing causes mentioned in conjunction with deaths involving coronavirus disease 2019 (COVID-19) starting from February 1, 2020.
 
 Centers for Disease Control and Prevention provides free and open access to various health related data. If you are intersted in learning more about datasets released by the CDC, please visit the [page on the CDC Data Homepage](https://data.cdc.gov).
 
