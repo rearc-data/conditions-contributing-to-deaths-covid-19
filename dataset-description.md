@@ -1,0 +1,1 @@
+This data shows health conditions and contributing causes mentioned in conjunction with deaths involving coronavirus disease 2019 (COVID-19) starting from February 1, 2020.
