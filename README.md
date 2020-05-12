@@ -4,7 +4,7 @@
 
 # Conditions Contributing to Deaths involving COVID-19, by Age, U.S. | CDC
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-ntlslb5k6aujc](https://aws.amazon.com/marketplace/pp/prodview-ntlslb5k6aujc). 
 
 ## Main Overview:
 This resource shows health conditions and contributing causes mentioned in conjunction with deaths involving coronavirus disease 2019 (COVID-19) starting from February 1, 2020.
