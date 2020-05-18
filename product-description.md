@@ -2,7 +2,7 @@
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/conditions-contributing-to-deaths-covid-19](https://github.com/rearc-data/conditions-contributing-to-deaths-covid-19).
 
-## Main Overview:
+## Main Overview
 This resource shows health conditions and contributing causes mentioned in conjunction with deaths involving coronavirus disease 2019 (COVID-19) starting from February 1, 2020.
 
 Centers for Disease Control and Prevention provides free and open access to various health related data. If you are intersted in learning more about datasets released by the CDC, please visit the [page on the CDC Data Homepage](https://data.cdc.gov).
